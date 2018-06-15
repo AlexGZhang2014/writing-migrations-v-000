@@ -1,2 +1,2 @@
-class AddGradeAndBirthDateToStudents
+class AddGradeAndBirthDateToStudents < 
 end
